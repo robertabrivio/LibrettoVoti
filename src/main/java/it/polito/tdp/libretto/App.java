@@ -24,6 +24,7 @@ public class App extends Application {
         stage.show();
         
         //comm
+        
     }
 
     public static void main(String[] args) {
